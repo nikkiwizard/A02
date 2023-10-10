@@ -53,6 +53,7 @@ Tutorial
 - Class lectures + PowerPoint presentations
 - Me opening Webstorm and writing down what to click and when in order to set up a new project
 - https://www.jetbrains.com/help/webstorm/github.html#register-account
+
 Glossary
 - https://docs.github.com/en/get-started/quickstart/github-glossary#push
 - https://docs.github.com/en/get-started/quickstart/hello-world
