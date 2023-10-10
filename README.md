@@ -1,5 +1,5 @@
 # A02
-Glossary
+## Glossary
 
 **Branch** - A parallel version of a repository, allowing you to make changes without those changes immediately going live
 
@@ -23,4 +23,8 @@ Glossary
 
 **Remote** - the version of a repository/branch that is hosted outside of your local machine, such as on GitHub
 
-Repository - the equivalent of a folder on GitHub, where all the files relating to one project are stored
+**Repository** - the equivalent of a folder on GitHub, where all the files relating to one project are stored
+
+## References
+- https://docs.github.com/en/get-started/quickstart/github-glossary#push
+- https://docs.github.com/en/get-started/quickstart/hello-world
